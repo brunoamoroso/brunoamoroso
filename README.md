@@ -1,6 +1,7 @@
 # 👋 Hi there
+
 I'm Bruno Amoroso, I consider myself an enthusiast in building products. I started in the tech industries in the end of 2014 as a full stack web developer, then decided to focus on UX Design which got me a Bachelor's Degree. Although recently I felt that I was more inclined to go back to developing things, so I could turn my design in real things.
----
+
 
 # 🖥️ Tech Stack
 #### Currently Studying
@@ -24,12 +25,9 @@ I'm Bruno Amoroso, I consider myself an enthusiast in building products. I start
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
----
 
 # 🌐 Socials
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
----
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amorosobruno/)
 
 
 <!--
