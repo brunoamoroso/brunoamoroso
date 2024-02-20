@@ -2,6 +2,15 @@
 
 I'm Bruno Amoroso, I consider myself an enthusiast in building products. I started in the tech industries in the end of 2014 as a full stack web developer, then decided to focus on UX Design which got me a Bachelor's Degree. Although recently I felt that I was more inclined to go back to developing things, so I could turn my design in real things.
 
+---
+
+# 👷‍♂️ Currently Building
+
+I'm currently working on a project for digital creators to manage their fan base, sell contents and comunicate with them on scheduled time. This project has a telegram bot created using the framework [Telegraf](https://github.com/telegraf/telegraf), while the checkout is using nodeJs as its backend and as a template engine I'm using handlebars all of this connected with the payment API of [Pagarme](https://github.com/pagarme)
+
+After cleaning my project tasks my next step will be to update the checkout project using Typescript so the project will gain more control about the types and React to create a better user experience on the client side. Also there's a upcoming project for this ecossystem that will be a dashboard for the creators to monitor their gains and create marketing strategies based on the metrics we will dispose.
+
+---
 
 # 🖥️ Tech Stack
 #### Currently Studying
@@ -25,6 +34,7 @@ I'm Bruno Amoroso, I consider myself an enthusiast in building products. I start
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+---
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amorosobruno/)
