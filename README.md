@@ -6,9 +6,7 @@ I'm Bruno Amoroso, I consider myself an enthusiast in building products. I start
 
 # 👷‍♂️ Currently Building
 
-I'm currently working on a project for digital creators to manage their fan base, sell contents and comunicate with them on scheduled time. This project has a telegram bot created using the framework [Telegraf](https://github.com/telegraf/telegraf), while the checkout is using nodeJs as its backend and as a template engine I'm using handlebars all of this connected with the payment API of [Pagarme](https://github.com/pagarme)
-
-After cleaning my project tasks my next step will be to update the checkout project using Typescript so the project will gain more control about the types and React to create a better user experience on the client side. Also there's a upcoming project for this ecossystem that will be a dashboard for the creators to monitor their gains and create marketing strategies based on the metrics we will dispose.
+A personal financial tracker from the prototype to the full stack development and deployment. The idea is to simplify how to track money and have an assistant to help users to reach their goals with money. 
 
 ---
 
